@@ -3,12 +3,14 @@
  */
 function find() {
 
+
 }
 
 /**
   resolves to an ARRAY with all users that match the filter condition
  */
 function findBy(filter) {
+
 
 }
 
@@ -17,6 +19,7 @@ function findBy(filter) {
  */
 function findById(user_id) {
 
+
 }
 
 /**
@@ -24,6 +27,7 @@ function findById(user_id) {
  */
 function add(user) {
 
+  
 }
 
 // Don't forget to add these to the `exports` object so they can be required in other modules
